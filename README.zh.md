@@ -69,8 +69,12 @@
 
 如果这个仓库对你有帮助，欢迎支持我持续维护：
 
-- 加密货币（NOWPayments）：https://nowpayments.io/payment/?iid=5525026308&source=button
-- Buy Me a Coffee：https://www.buymeacoffee.com/hallidayyy
+<a href="https://nowpayments.io/payment/?iid=5525026308&source=button" target="_blank" rel="noreferrer noopener">
+  <img src="https://nowpayments.io/images/embeds/payment-button-black.svg" alt="Crypto payment button by NOWPayments">
+</a>
+<a href="https://www.buymeacoffee.com/hallidayyy" target="_blank" rel="noreferrer noopener">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me a Coffee" height="60">
+</a>
 
 ## 许可证
 

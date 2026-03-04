@@ -69,8 +69,12 @@ PRs are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If this repo helps you, you can support my work:
 
-- Crypto (NOWPayments): https://nowpayments.io/payment/?iid=5525026308&source=button
-- Buy Me a Coffee: https://www.buymeacoffee.com/hallidayyy
+<a href="https://nowpayments.io/payment/?iid=5525026308&source=button" target="_blank" rel="noreferrer noopener">
+  <img src="https://nowpayments.io/images/embeds/payment-button-black.svg" alt="Crypto payment button by NOWPayments">
+</a>
+<a href="https://www.buymeacoffee.com/hallidayyy" target="_blank" rel="noreferrer noopener">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me a Coffee" height="60">
+</a>
 
 ## License
 
