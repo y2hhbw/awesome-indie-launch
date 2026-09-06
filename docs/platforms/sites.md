@@ -1,7 +1,7 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
-- Last updated: 2026-03-04
+- Total entries: 223
+- Last updated: 2026-09-06
 
 ## Platform List
 
@@ -109,6 +109,7 @@
 | Tiny Startups | https://tinystartups.com/ |
 | Toolfio | https://toolfio.com/ |
 | Toolfolio | https://toolfolio.io/ |
+| Toolfound | https://toolfound.com/ |
 | Toolhub | https://toolhub.me/ |
 | Toollist | https://toollist.ai/ |
 | Toolpilot | https://www.toolpilot.ai/ |
