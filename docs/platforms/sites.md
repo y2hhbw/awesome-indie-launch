@@ -1,6 +1,6 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
+- Total entries: 223
 - Last updated: 2026-03-04
 
 ## Platform List
@@ -229,3 +229,4 @@
 | launching.today | https://launching.today/ |
 | affordhunt.com | https://www.affordhunt.com/ |
 | steemhunt.com | https://steemhunt.com/ |
+| SaaSCity | https://saascity.io/ |
