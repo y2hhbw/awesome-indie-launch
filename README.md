@@ -24,7 +24,7 @@ If this repo helps you, please give it a star.
 
 ## Launch Platforms
 
-- Total: 222 entries
+- Total: 225 entries
 - Full list: [docs/platforms/sites.md](docs/platforms/sites.md)
 - Guide: [docs/platforms/README.md](docs/platforms/README.md)
 

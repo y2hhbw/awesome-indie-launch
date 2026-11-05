@@ -1,7 +1,7 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
-- Last updated: 2026-03-04
+- Total entries: 225
+- Last updated: 2026-11-05
 
 ## Platform List
 
@@ -229,3 +229,6 @@
 | launching.today | https://launching.today/ |
 | affordhunt.com | https://www.affordhunt.com/ |
 | steemhunt.com | https://steemhunt.com/ |
+| pwa.directory | https://pwa.directory/ |
+| webapps.directory | https://webapps.directory/ |
+| boilerplates.directory | https://boilerplates.directory/ |
