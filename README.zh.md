@@ -24,7 +24,7 @@
 
 ## 发布平台
 
-- 总量：222 条
+- 总量：225 条
 - 完整清单：[docs/platforms/sites.md](docs/platforms/sites.md)
 - 使用说明：[docs/platforms/README.md](docs/platforms/README.md)
 
