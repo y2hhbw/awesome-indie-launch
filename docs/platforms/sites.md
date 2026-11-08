@@ -1,6 +1,6 @@
 # Launch Platforms (Markdown)
 
-- Total entries: 222
+- Total entries: 223
 - Last updated: 2026-03-04
 
 ## Platform List
@@ -58,6 +58,7 @@
 | Magicbox Tools | https://magicbox.tools/ |
 | Makerthrive | https://makerthrive.com/ |
 | Marketingdb | https://marketingdb.live/ |
+| MeetNewAI | https://meetnewai.com/ |
 | Microlaunch | https://microlaunch.net/ |
 | Micro Saas Examples | https://www.microsaasexamples.com/ |
 | Neeed Directory | https://neeed.directory/ |
